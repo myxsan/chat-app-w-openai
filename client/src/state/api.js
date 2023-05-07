@@ -47,4 +47,6 @@ export const {
   usePostAiTextMutation,
   usePostAiCodeMutation,
   usePostAiAssistMutation,
+  usePostLoginMutation,
+  usePostSignUpMutation,
 } = api;
